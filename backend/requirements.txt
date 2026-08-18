@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+huggingface-hub
+transformers
+langchain-community
+sentence-transformers
